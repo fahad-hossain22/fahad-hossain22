@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahad Hossain</h1>
 <h3 align="center">Currently Enrolled in MEARN Stack Development & Cybersecurity Internship at Creative IT Institute | Ethical Hacker & Full-Stack Developer Focused on Web Security</h3>
 
-<p align="center"> <img src="https://i.giphy.com/xsCevAab5ufj37BeGR.webp"></img> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-hossain22&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-hossain22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahad-hossain22" alt="fahad-hossain22" /></a> </p>
